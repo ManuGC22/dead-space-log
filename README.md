@@ -2,7 +2,7 @@
 
 Dead Space Log is a website for fans of the Dead Space franchise that wish to know information about the necromorphs (in-game enemies), what are their attacks and how to defeat them.
 
-**<a href="#"> Link to project </a>** 
+**<a href="https://deadspacelog.netlify.app/"> Link to project </a>** 
 
 ![dead-space-log-page](https://user-images.githubusercontent.com/101868896/194131985-434701db-e6e4-4ed9-8008-496932283504.png)
 
