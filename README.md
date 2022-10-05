@@ -4,6 +4,7 @@ Dead Space Log is a website for fans of the Dead Space franchise that wish to kn
 
 **<a href="#"> Link to project </a>** 
 
+![dead-space-log-page](https://user-images.githubusercontent.com/101868896/194131985-434701db-e6e4-4ed9-8008-496932283504.png)
 
 ## How it's made
 
