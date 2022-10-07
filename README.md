@@ -1,6 +1,6 @@
 # Dead Space Log
 
-Dead Space Log is a website for fans of the Dead Space franchise that wish to know information about the necromorphs (in-game enemies), what are their attacks and how to defeat them.
+Dead Space Log is a website for fans of the Dead Space franchise that wish to know information about the necromorphs (in-game enemies), what are their attacks, and how to defeat them.
 
 **<a href="#"> Link to project </a>** 
 
@@ -21,6 +21,6 @@ OOP could have been used to encapsulate better the data passed to each node from
 
 ## Lessons learned
 
-- How to avoid text from stacking in the DOM, something that happened to me with li elements, I managed to remove old li elements and show new ones when new information was being presented.
-- The functionality and simplicity of using async/await funcctions.
+- How to avoid text from stacking in the DOM, something that happened to me with li elements. I managed to remove old li elements and show new ones when new information was being presented.
+- The functionality and simplicity of using async/await functions.
 - The importance of creating a function to do one simple action and nothing more, this makes your code more readable.

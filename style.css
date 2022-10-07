@@ -16,11 +16,11 @@ html{
 
 @font-face {
     font-family: "deadspacefont";
-    src: url("/dead-space-client/fonts/DeadSpaceTitleFont.ttf");
+    src: url("fonts/DeadSpaceTitleFont.ttf");
 }
 
 body{
-    background-image: url("/dead-space-client/media/dead-space-bg.webp");
+    background-image: url("media/dead-space-bg.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #0d1117;

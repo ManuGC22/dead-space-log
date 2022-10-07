@@ -64,38 +64,38 @@ function strategyTextShown(){
 function necroImage(){
 
     if(necroName.innerText === 'Slashers'){
-        necroImg.src = '/dead-space-client/media/necromorphs/slasher.png'
+        necroImg.src = 'media/necromorphs/slasher.png'
     }
 
     if(necroName.innerText === 'Pods'){
-        necroImg.src = '/dead-space-client/media/necromorphs/pods.png'
+        necroImg.src = 'media/necromorphs/pods.png'
     }
 
     if(necroName.innerText === 'Brute'){
-        necroImg.src = '/dead-space-client/media/necromorphs/brute.png'
+        necroImg.src = 'media/necromorphs/brute.png'
     }
 
     if(necroName.innerText === 'Infectors'){
-        necroImg.src = '/dead-space-client/media/necromorphs/infector.png'
+        necroImg.src = 'media/necromorphs/infector.png'
     }
 
     if(necroName.innerText === 'Puker'){
-        necroImg.src = '/dead-space-client/media/necromorphs/puker.png'
+        necroImg.src = 'media/necromorphs/puker.png'
     }
 
     if(necroName.innerText === 'Cyst'){
-        necroImg.src = '/dead-space-client/media/necromorphs/cyst.png'
+        necroImg.src = 'media/necromorphs/cyst.png'
     }
 
     if(necroName.innerText === 'Swarmers'){
-        necroImg.src = '/dead-space-client/media/necromorphs/swarmers.png'
+        necroImg.src = 'media/necromorphs/swarmers.png'
     }
 
     if(necroName.innerText === 'Dividers'){
-        necroImg.src = '/dead-space-client/media/necromorphs/divider.webp'
+        necroImg.src = 'media/necromorphs/divider.webp'
     }
 
     if(necroName.innerText === 'unkown creature'){
-        necroImg.src = '/dead-space-client/media/ishimura-logo.webp'
+        necroImg.src = 'media/ishimura-logo.webp'
     }
 }
